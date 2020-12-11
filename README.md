@@ -1,11 +1,14 @@
 # AtefehRastgoo.github.io
 
-### رزومه عاطفه راستگو
+###  عاطفه راستگو
  
 ---
 - [resume](https://atefehrastgoo.github.io/)
 <br>
-- [SOP] (https://atefehrastgoo.github.io/SOP)
+---
+- [SOP](https://atefehrastgoo.github.io/SOP)
 <br>
-- [Certificate] (https://atefehrastgoo.github.io/Certificate)
+---
+- [Certificate](https://atefehrastgoo.github.io/Certificate)
+
 ------------------
