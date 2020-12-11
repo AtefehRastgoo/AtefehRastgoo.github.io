@@ -13,4 +13,9 @@
 ---
 [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه دوم](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 ---
+[روش پژوهش یک پایان نامه] ()
+---
+[ارائه کتبی با لاتک]()
+---
+[ارائه شفاهی]()
 ------------------
