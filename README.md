@@ -13,7 +13,7 @@
 ---
 [ معرفی یک درس مشابه در دانشگاههای دیگر نمونه دوم](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
 ---
-[روش پژوهش یک پایان نامه] ()
+[روش پژوهش یک پایان نامه] (https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
 ---
 [ارائه کتبی با لاتک]()
 ---
