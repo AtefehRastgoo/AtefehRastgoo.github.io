@@ -17,7 +17,7 @@
 ---
 [روش پژوهش یک پایان نامه] (https://atefehrastgoo.github.io/ThesisForMethodology.pdf)
 ---
-[ارائه کتبی با لاتک]()
+[ارائه کتبی با لاتک](https://atefehrastgoo.github.io/Latex.zip)
 ---
 [ارائه شفاهی]()
 ------------------
