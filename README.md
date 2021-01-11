@@ -22,7 +22,12 @@
 ---
 [ارائه شفاهی] (Uploaded to AtefehRastgoo/PNU_3991_AR/Research-And-Presentation-Methods)
 ------------------
+ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/AtefehRastgoo/PNU_3991_AR/blob/main/980096548%20%D8%B9%D8%A7%D8%B7%D9%81%D9%87%20%D8%B1%D8%A7%D8%B3%D8%AA%DA%AF%D9%88_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/AtefehRastgoo/PNU_3991_AR/blob/main/980096548%20%D8%B9%D8%A7%D8%B7%D9%81%D9%87%20%D8%B1%D8%A7%D8%B3%D8%AA%DA%AF%D9%88_GeneralSection_CheckList_AR_3991.pdf)
+---
 
 ## گروه ها
     
