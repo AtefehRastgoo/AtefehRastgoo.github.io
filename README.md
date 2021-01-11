@@ -4,7 +4,7 @@
 ###  عاطفه راستگو
  
 ---
-- [resume](https://atefehrastgoo.github.io/)
+- [resume](https://atefehrastgoo.github.io/index.html)
 ---
 - [SOP](https://atefehrastgoo.github.io/SOP)
 ---
